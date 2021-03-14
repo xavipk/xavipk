@@ -4,7 +4,7 @@
 ![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
 ![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=red)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)<br/>
+![Debian](https://img.shields.io/badge/-Debian-000000?style=for-the-badge&logo=Debian&logoColor=white)<br/>
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipk&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 <details>
