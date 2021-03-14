@@ -1,16 +1,22 @@
-### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavipk&hide_border=true&count_private=true&show_icons=true&theme=dark)
 
-<!--
-**xavipk/xavipk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages and Tools:
+![Python3](https://img.shields.io/badge/-Py3-000000?style=for-the-badge&logo=Python&logoColor=cyan)
+![JS](https://img.shields.io/badge/-JS-000000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=red)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)<br/>
+![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipk&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
 
-Here are some ideas to get you started:
+<details>
+  <summary>Recent Activity</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### None. (for now 😅)
+</details>
+
+#### Contact me
+[![Blog?](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=rss&logoColor=red)][website]
+[![twitter : @x4v1pk](https://img.shields.io/badge/%40x4v1pk-000000?style=for-the-badge&logo=twitter&logoColor=cyan)][twitter]
+<!--[![email : xavipk@pm.me](https://img.shields.io/badge/-xavipk%40pm%2Eme-000000?style=for-the-badge&logo=protonmail&logoColor=blueviolet)](mailto:xavipk@pm.me)-->
+
+[website]: https://xavipk.github.io/refactored-memory/
+[twitter]: https://twitter.com/x4v1pk
